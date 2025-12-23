@@ -99,7 +99,7 @@ Our MVP delivers:
 ## 📬 Connect With Us
 
 - 🌐 **Website**: [diu-os.dev](https://diu-os.dev)
-- 💬 **Discord**: [discord.gg/diu-os](https://discord.gg/diu-os)
+- 💬 **Discord**: [discord.gg/diu-os](https://discord.gg/PKkzUkz82r)
 - 🐦 **Twitter**: [@diu_os](https://twitter.com/diu_os)
 - 📧 **Email**: contact@diu-os.dev
 
