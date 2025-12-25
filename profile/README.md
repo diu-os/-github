@@ -135,8 +135,8 @@ We welcome contributions from developers, scientists, educators, and enthusiasts
 Help us build the future of scientific discovery:
 
 ### Crypto Donations
-**ETH/USDC/Polygon**: `0xYourEthereumAddress`  
-**Bitcoin**: `bc1qYourBitcoinAddress`
+**ETH/USDC/Polygon**: `0x7e2Ccc6769c4d1f2d97AbAad40d5887F30e27763`  
+**Bitcoin**: `bc1q4kmka07z94hx47z4quwpujrttfpgl8uv4nhpv5`
 
 All donations directly fund development and infrastructure.
 
