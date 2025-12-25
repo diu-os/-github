@@ -16,7 +16,7 @@ We're building an open-source platform where AI and humans collaborate as equal 
 ### Ethereum / Polygon / Arbitrum
 All EVM-compatible chains use the same address:
 ```
-false address 0x7e2Ccc6769c4d1f2d97AbAad40d5887F30e27763
+0x7e2Ccc6769c4d1f2d97AbAad40d5887F30e27763
 ```
 
 **Accepted tokens:**
@@ -29,7 +29,7 @@ false address 0x7e2Ccc6769c4d1f2d97AbAad40d5887F30e27763
 ### Bitcoin
 Native SegWit address for lower transaction fees:
 ```
-False address bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
+bc1q4kmka07z94hx47z4quwpujrttfpgl8uv4nhpv5
 ```
 
 ## 📊 Funding Goals
